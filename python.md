@@ -16,3 +16,5 @@ timeout英文解释如下
 
 从隐藏代码的目的出发，可以用Cython转成so文件，对于package，将对应\_\_init\_\_.py文件在`py_modules中`声明，随后通过`python setup.py build`就可以生成包含so与\_\_init\_\_.py的package包。
    
+## 文档化
+使用Sphinx生成文档，快速使用参考范例[Documenting Your Project Using Sphinx](https://pythonhosted.org/an_example_pypi_project/sphinx.html)
