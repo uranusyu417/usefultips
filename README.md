@@ -9,3 +9,6 @@ used to record tips for development
 [https://github.com/uranusyu417/Markdown/blob/master/README.md](https://github.com/uranusyu417/Markdown/blob/master/README.md)
 ## Python相关
 [https://github.com/uranusyu417/usefultips/blob/master/python.md](https://github.com/uranusyu417/usefultips/blob/master/python.md)
+
+## Linux相关
+[https://github.com/uranusyu417/usefultips/blob/master/Linux%E7%9B%B8%E5%85%B3.md](https://github.com/uranusyu417/usefultips/blob/master/Linux%E7%9B%B8%E5%85%B3.md)
