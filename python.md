@@ -18,3 +18,19 @@ timeout英文解释如下
    
 ## 文档化
 使用Sphinx生成文档，快速使用参考范例[Documenting Your Project Using Sphinx](https://pythonhosted.org/an_example_pypi_project/sphinx.html)
+
+## jupyter notebook相关
+
+### GUI相关
+
+nb中图形相关操作可选择使用ipywidgets的浏览器控件，或本地GUI库，如PyQt，tkinter等
+
+#### 选择文件
+
+在nb中运行如下代码
+
+```
+%matplotlib  # 开启qt backend
+from PyQt5.QtWidgets import QFileDialog
+full_fname = QFileDialog.getOpenFileName(caption=u'请选择文件', directory='./', filter='')
+```
